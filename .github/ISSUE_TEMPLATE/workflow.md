@@ -1,11 +1,11 @@
 ---
 name: Failing Workflow
-about: Report continuously failing workflows in Clusternet CI
+about: Report continuously failing workflows in Zero CI
 labels: kind/workflow
 
 ---
 
-<!-- Please only use this template for submitting reports about continuously failing workflows in Clusternet CI -->
+<!-- Please only use this template for submitting reports about continuously failing workflows in Zero CI -->
 
 #### Which workflows are failing:
 
